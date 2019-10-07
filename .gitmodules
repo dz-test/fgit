@@ -1,0 +1,3 @@
+[submodule "mymod"]
+	path = ext
+	url = https://github.com/staaldraad/gctest
